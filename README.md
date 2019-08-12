@@ -1,4 +1,10 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails sample application
+
+A micropost site built to get familiar with Ruby on Rails.
+
+Includes functionality to create an account, follow/unfollow other users, and to make posts with/without image attachments
+
+## Tutorial used
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
